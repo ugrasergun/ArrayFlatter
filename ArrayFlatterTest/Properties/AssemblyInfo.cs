@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("ArrayFlatter")]
+[assembly: AssemblyTitle("ArrayFlatterTest")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ArrayFlatter")]
+[assembly: AssemblyProduct("ArrayFlatterTest")]
 [assembly: AssemblyCopyright("Copyright ©  2015")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("3a06f027-6ec8-43ed-b0ef-24257e05d0dd")]
+[assembly: Guid("33b46622-a1bd-4757-83b2-4fc91d8cb382")]
 
 // Version information for an assembly consists of the following four values:
 //
